@@ -1,0 +1,5 @@
+C:\Data\Cours\2017-2018\226a\cours avec FPA\semaine 1\CompteBancaire\CompteBancaire\bin\Debug\CompteBancaire.dll
+C:\Data\Cours\2017-2018\226a\cours avec FPA\semaine 1\CompteBancaire\CompteBancaire\bin\Debug\CompteBancaire.pdb
+C:\Data\Cours\2017-2018\226a\cours avec FPA\semaine 1\CompteBancaire\CompteBancaire\obj\Debug\CompteBancaire.csprojResolveAssemblyReference.cache
+C:\Data\Cours\2017-2018\226a\cours avec FPA\semaine 1\CompteBancaire\CompteBancaire\obj\Debug\CompteBancaire.dll
+C:\Data\Cours\2017-2018\226a\cours avec FPA\semaine 1\CompteBancaire\CompteBancaire\obj\Debug\CompteBancaire.pdb
